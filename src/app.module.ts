@@ -22,6 +22,4 @@ import { EnvConfiguration } from './config/app.config';
     SeedModule,
   ],
 })
-export class AppModule {
-  constructor() {}
-}
+export class AppModule {}
